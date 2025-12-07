@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Love Like This",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-07T17:43:55.458131Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Like This",
+      "artist": "W O L F C L U B feat. Jaki Nelson",
+      "has_synced": true,
+      "path": "select/01_Love_Like_This_W_O_L_F_C_L_U_B_feat._Jaki_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Like This",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/02_Love_Like_This_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want A Love Like This",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/03_I_Want_A_Love_Like_This_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Like This",
+      "artist": "The Summer Set",
+      "has_synced": true,
+      "path": "select/04_Love_Like_This_The_Summer_Set.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Like This",
+      "artist": "Natasha Bedingfield feat. Sean Kingston",
+      "has_synced": true,
+      "path": "select/05_Love_Like_This_Natasha_Bedingfield_feat._Sean_Kingston.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Like This (Feat. Sean Kingston)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/06_Love_Like_This_(Feat._Sean_Kingston)_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love like this",
+      "artist": "SWV",
+      "has_synced": true,
+      "path": "select/07_Love_like_this_SWV.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Knew Love Like This Before",
+      "artist": "Stephanie Mills",
+      "has_synced": true,
+      "path": "select/08_Never_Knew_Love_Like_This_Before_Stephanie_Mills.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Like This",
+      "artist": "Faith Evans",
+      "has_synced": true,
+      "path": "select/09_Love_Like_This_Faith_Evans.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We May Never Love Like This Again",
+      "artist": "Maureen McGovern",
+      "has_synced": false,
+      "path": "select/10_We_May_Never_Love_Like_This_Again_Maureen_McGovern.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Had A Love Like This Before",
+      "artist": "Tavares",
+      "has_synced": false,
+      "path": "select/11_Never_Had_A_Love_Like_This_Before_Tavares.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Like This (feat. Sean Kingston)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/12_Love_Like_This_(feat._Sean_Kingston)_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Love Like This",
+      "artist": "Dan Fogelberg",
+      "has_synced": true,
+      "path": "select/13_A_Love_Like_This_Dan_Fogelberg.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Like This",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Like_This_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Love Like This",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_Love_Like_This_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Love Like This",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_Love_Like_This_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Love Like This",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_Love_Like_This_藤井_風.txt"
+    }
+  ]
+}
